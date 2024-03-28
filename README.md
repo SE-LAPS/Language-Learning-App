@@ -1,4 +1,4 @@
-# language_learning_app
+# language_learning_app 👨‍⚖️
 
 A new Flutter project.
 
